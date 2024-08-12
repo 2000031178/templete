@@ -1,0 +1,62 @@
+#b1{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    /* background-image: url(./animals1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+#b2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    /* background-image: url(./allman.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+#b3{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    margin-left: auto;
+    
+    /* background-image: url(./beach\ boys1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+#b4{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    /* background-image: url(./black.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+
+}
+#id{
+    font-size: 200%;
+}
+#Sucess{
+    background-color: chocolate;
+    background-size: cover;
+}
+
+#foot{
+    text-align: center;
+    border: 2px solid white;
+    padding: 5px;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    width: 500px;
+    border: 5px solid wheat;
+    padding: 30px;
+    margin-left: 450px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}

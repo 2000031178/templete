@@ -1,0 +1,44 @@
+#navbar{
+    text-align: center;
+    text-decoration-style: solid;
+    padding: 5px;
+    
+    
+    
+    
+    
+    
+}
+h1{
+    text-align: center;
+    width: 500px;
+    border: 5px solid white;
+    padding: 30px;
+    margin-left: 450px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+*{
+    background-image: url(./bg2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+marquee{
+    background-color: black;
+}
+
+#white{
+    color: whitesmoke;
+}
+button{
+    border: 3px solid white;
+    
+}
+#foot{
+    text-align: center;
+    border: 2px solid white;
+    padding: 5px;
+    color: aliceblue;
+}

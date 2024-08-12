@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+    <link rel="stylesheet" href="./register.css">
+</head>
+<body><div style="text-align: center;">
+    <fieldset>
+    <h1 class="reg">Register Here</h1><br>
+    <form  action="./login.html" method="post" class="reg">
+        <label for="login" class="reg">Username : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input class="reg" type="text" name="login_username" id="login" required autofocus><br><br>
+
+        <label class="reg" for="">Mail ID : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input class="reg" type="email" required pattern="[a-z._\d]+@[a-z]+\.[a-z]{2,}"><br><br>
+        <label class="reg" for="">Mobile No :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input class="reg" type="number" required pattern="+91[6-9][0-9]{9}"><br><br>
+
+        <label class="reg" for="pass">password : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input class="reg" type="password" name="Login_Password" id="pass" required><br><br>
+        <label class="reg" for="pass"> Confirm password : &nbsp;&nbsp;</label>
+        <input class="reg" type="password" name="Login_Password" id="pass" required><br><br>
+        
+        </fieldset><br>
+        <input class="reg" type="submit" value="Register"><br><br>
+        <br>
+        <hr>
+        <br>
+        <center class="reg">
+        <button class="reg"><a href="./index.html">HOME</a></button>
+        </center>
+
+        </div>
+        
+        
+    </form>
+    
+</body>
+</html>

@@ -1,0 +1,25 @@
+*{
+    background-image: url(./contact.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+
+}
+.container{
+    width: 500px;
+    border: 5px solid black;
+    padding: 50px;
+    margin-left: 450px;
+    top: 1000px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+#foot{
+    text-align: center;
+    border: 2px solid white;
+    padding: 5px;
+    color: aliceblue;
+}

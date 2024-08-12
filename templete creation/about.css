@@ -1,0 +1,32 @@
+
+h1{
+        text-align: center;
+        width: 500px;
+        border: 5px solid black;
+        padding: 30px;
+        margin-left: 450px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+}
+p{
+    font-size: large;
+}
+*{
+    background-image: url(./bacground1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    
+    
+}
+#id{
+    font-size: 120%;
+}
+
+#foot{
+    text-align: center;
+    border: 2px solid white;
+    padding: 5px;
+    color: aliceblue;
+}
